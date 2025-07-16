@@ -1,0 +1,19 @@
+.scroll-top-btn {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  z-index: 999;
+  background: #e6f1f7;
+  color: #000000;
+  padding: 10px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: none;
+}
+.scroll-left {
+  left: 40px !important;
+  right: auto !important;
+}
+.scroll-right {
+  right: 40px !important;
+}
